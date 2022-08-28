@@ -21,5 +21,5 @@
 ## Wiring
 ![](/images/Speedcoach_circuit_diagram.png)
 ## Prototypes
-![](/images/sample1.HEIC)
-![](/images/sample2.HEIC)
+![](/images/sample1.jpg)
+![](/images/sample2.jpg)
